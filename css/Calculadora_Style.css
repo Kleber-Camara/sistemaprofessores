@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.fundo{
+    height: 100vh;
+    color: white;
+    text-align: center;
+}
+
+.calculadora{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: blueviolet;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.botao{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(202, 197, 197);
+    border-radius: 10px;
+}
+
+#resultado{
+    height: 30px;
+    font-size: 24px;
+    background-color: rgb(202, 197, 197);
+    text-align: right;
+    border-radius: 10px;
+}

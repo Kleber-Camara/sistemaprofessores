@@ -1,0 +1,72 @@
+p{
+    font-size: 16px;
+}
+
+h2 {
+    font: Times;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+body {
+    background-color: rgb(106, 184, 233);
+}
+
+#cabecalho {
+    float: initial;
+}
+
+#callejasF{
+    border-radius: 30px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    float: left;
+
+}
+
+#rosanaF{
+    border-radius: 30px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+#mabelF{
+    border-radius: 30px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+#ferdinandyF{
+    border-radius: 30px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+#pedroF{
+    border-radius: 30px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+#callejas{
+    padding-bottom: 20px;
+}
+#mabel {
+    padding-bottom: 20px;
+}
+
+#rosana{
+    padding-bottom: 20px;
+}
+
+#Ferdinandy{
+    padding-bottom: 20px;
+}
+
+#pedro{
+    padding-bottom: 20px;
+}
